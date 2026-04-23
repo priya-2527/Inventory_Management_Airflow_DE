@@ -1,0 +1,56 @@
+supplier_id,supplier_name,email,phone,country
+1,Foley PLC,zmueller@example.com,275.288.1504x3072,French Guiana
+2,Watson-Arroyo,ublevins@example.org,(408)529-9114x9881,Czech Republic
+3,Woodard-Torres,nancy55@example.org,+1-301-548-6940x80176,Vietnam
+4,"Baker, Turner and Sanchez",johnsonerica@example.net,415-501-8055x54623,Germany
+5,Decker-Norris,renee70@example.net,7846669191,Gibraltar
+6,Smith LLC,ericbailey@example.com,227.431.7473,Senegal
+7,"Colon, Medina and Sullivan",test@,+1-823-921-1052x904,Tunisia
+8,"Rocha, Evans and Hickman",brittany73@example.net,001-554-898-1384,Uzbekistan
+9,"Morris, Summers and Mann",davidedwards@example.net,001-303-240-7354x68128,Finland
+10,"Shaw, Richards and Guerrero",salinasmegan@example.org,468.375.1626,French Polynesia
+11,Reynolds-Lambert,gabrielwatson@example.com,+1-549-661-3713x9948,Latvia
+12,"Ross, Johnson and Freeman",icrawford@example.org,+1-715-292-4340x83342,Puerto Rico
+13,Cochran-Butler,invalid-email,477.573.2321,Italy
+14,Rivera Group,steven34@example.org,(442)736-3054x15267,Trinidad and Tobago
+15,Krueger PLC,eatonkeith@example.org,7765794643,Yemen
+16,Hunter-Richards,woodcatherine@example.com,001-460-816-3420x5188,Bahrain
+17,Ramirez-Perez,fevans@example.net,701-329-0499x8773,Montenegro
+18,Thompson-Evans,jennifermora@example.com,8649201347,Rwanda
+19,Wood Group,pageandrea@example.com,+1-655-813-8727x6250,Colombia
+20,"Garza, Hines and Brown",lauren50@example.com,(695)449-1273,Taiwan
+21,"Perry, Green and Gibson",epowell@example.com,001-970-516-4581,Argentina
+22,"Simmons, Brooks and White",peckjacob@example.com,504.853.3797x626,Solomon Islands
+23,Li Inc,jkim@example.com,493.502.7734x9859,Burkina Faso
+24,Garcia Group,joshuabaker@example.com,601.263.4419,Hungary
+25,Lee Ltd,tmiles@example.net,001-817-457-1918x3582,Timor-Leste
+26,Mendoza Group,brooke98@example.net,001-458-962-7665,Ecuador
+27,Perez-Guzman,rwilliamson@example.org,(489)637-1721x392,Zambia
+28,"Williams, Castaneda and Hayes",jimenezpamela@example.org,785.352.2748,Bahrain
+29,Bailey-George,lmiller@example.net,(746)341-6458x3355,Cote d'Ivoire
+30,Mack Inc,lydiawilliams@example.com,(622)632-5601,Guatemala
+31,Bryant-Garcia,victor39@example.net,001-217-342-3521,
+32,Frazier-Reed,diane02@example.com,485.857.0827x59038,Luxembourg
+33,Jenkins-Smith,jenniferhatfield@example.com,694.994.9152x207,Spain
+34,Harrison-Davis,philip99@example.com,001-313-597-0409x13491,Nicaragua
+35,Smith-Sullivan,sandraadams@example.net,373.828.3040,Guinea-Bissau
+36,"Santos, Anderson and Lara",nelsonkimberly@example.com,592.471.6641x62131,Jersey
+37,Stone LLC,test@,001-487-761-1581,Cape Verde
+38,Crawford-Martin,angela24@example.net,727-366-2664x38403,Rwanda
+39,Wise LLC,padillasean@example.net,+1-225-276-3791x179,Kenya
+40,Scott Group,natalieryan@example.net,927-309-1420,Panama
+41,Miller-Bailey,cabreraregina@example.com,(820)426-8736x60901,Italy
+42,Smith and Sons,robin66@example.net,001-724-666-1866x533,Poland
+43,Reese-Smith,smithamy@example.com,632-505-0020,South Georgia and the South Sandwich Islands
+44,"Lindsey, Smith and Long",erin19@example.net,480-285-3360,Cote d'Ivoire
+45,Smith-Wolf,keithboone@example.net,9972750803,Dominica
+46,Diaz Inc,omar17@example.org,520-758-8958,Antigua and Barbuda
+47,"Jackson, Schmidt and Nelson",wmorrow@example.org,+1-666-296-7771x941,Italy
+48,Davis-Jimenez,barronthomas@example.com,573.849.8505,Panama
+49,Thomas-Bryant,herrerasarah@example.net,689.209.5789,Dominican Republic
+50,Vega-Mathews,robert96@example.com,9722326422,Zimbabwe
+47,"Jackson, Schmidt and Nelson",wmorrow@example.org,+1-666-296-7771x941,Italy
+32,Frazier-Reed,diane02@example.com,485.857.0827x59038,Luxembourg
+13,Cochran-Butler,invalid-email,477.573.2321,Italy
+48,Davis-Jimenez,barronthomas@example.com,573.849.8505,Panama
+16,Hunter-Richards,woodcatherine@example.com,001-460-816-3420x5188,Bahrain
